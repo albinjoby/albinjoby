@@ -34,9 +34,6 @@ Feel free to check out my repositories and contribute if you'd like. Let's build
 ![](https://github-readme-streak-stats.herokuapp.com/?user=albinjoby&theme=chartreuse-dark&hide_border=false)<br/></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=albinjoby&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=albinjoby&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=albinjoby&icon=0&color=3)](https://visitcount.itsvg.in)
