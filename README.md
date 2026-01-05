@@ -26,7 +26,7 @@ Feel free to check out my repositories and contribute if you'd like. Let's build
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,c,js,html,css,nodejs,react,tailwind,express,nextjs,redis&perline=4" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,js,html,css,nodejs,react,tailwind,express,nextjs,redis,rust&perline=4" />
   </a>
 </p>
 
